@@ -6,3 +6,6 @@ Required Libraries:
 - beautifulsoup4
 - requests
 - lxml
+
+Planned features:
+- Web Scraping
